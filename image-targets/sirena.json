@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/sirena_luminance.png",
+  "resources": {
+    "originalImage": "sirena_original.png",
+    "croppedImage": "sirena_cropped.png",
+    "thumbnailImage": "sirena_thumbnail.png",
+    "luminanceImage": "sirena_luminance.png"
+  },
+  "name": "sirena",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 61,
+    "left": 0,
+    "width": 735,
+    "height": 980,
+    "isRotated": false,
+    "originalWidth": 735,
+    "originalHeight": 1102
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795303411212,
+  "updated": 1795303411212
+}

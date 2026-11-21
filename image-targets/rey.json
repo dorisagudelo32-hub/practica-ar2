@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/rey_luminance.png",
+  "resources": {
+    "originalImage": "rey_original.png",
+    "croppedImage": "rey_cropped.png",
+    "thumbnailImage": "rey_thumbnail.png",
+    "luminanceImage": "rey_luminance.png"
+  },
+  "name": "rey",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 35,
+    "width": 1052,
+    "height": 1402,
+    "isRotated": true,
+    "originalWidth": 1122,
+    "originalHeight": 1402
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795303533743,
+  "updated": 1795303533743
+}
